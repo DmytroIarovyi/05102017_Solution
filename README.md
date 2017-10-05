@@ -5,3 +5,5 @@
 - To use it, just open solution and push 'Run tests' in 'Tests.cs' file (Visual Studio).
 
 - Tests fails due to "access denied to some of .jpg files" (See test result for precise details)
+
+- Comment out line Helpers.CheckImageValid() and then tests are 'Passed'
